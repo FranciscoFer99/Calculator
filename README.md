@@ -26,7 +26,7 @@ Desarrollo de una Calculadora simple, con cuatro funciones básicas, "Sumar", "R
 
 ## Se agradece 🎁
 
-* Comentar el proecto, diferentes mejoras a realizar 📢
+* Comentar el proyecto, diferentes mejoras a realizar 📢
 * Invita una cerveza 🍺 o un café ☕ 
 * etc.
 
