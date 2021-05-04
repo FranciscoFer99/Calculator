@@ -6,7 +6,7 @@ Desarrollo de una calculadora simple con Android Studio
 
 Desarrollo de una Calculadora simple, con cuatro funciones básicas, "Sumar", "Restar", "Multiplicar", "Dividir"
 
-![imagen_trivial]()
+![imagen_trivial](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/ImagenCalculadora.jpeg)
 
 ## Construido con 🛠️
 
