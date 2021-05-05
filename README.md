@@ -5,12 +5,13 @@ Desarrollo de una calculadora simple con Android Studio
 ## Funcionamiento 🚀
 
 Desarrollo de una Calculadora simple, con cuatro funciones básicas, "Sumar", "Restar", "Multiplicar", "Dividir"
+En el siguiente ejemplo, se introduce el número "8", depués se pulsa el simbolo de "+" y el número "2", y la se realiza el cálculo
 
-![Introduce8.jpeg](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/Introduce8.jpeg)
-![pulsaSumaEIntroduce2.jpeg](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/pulsaSumaEIntroduce2.jpeg)
-![MuestraSolucionDelCalculo10.jpeg](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/MuestraSolucionDelCalculo10.jpeg)
 
 <img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/Introduce8.jpeg" width="400" height="650">
+<img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/pulsaSumaEIntroduce2.jpeg" width="400" height="650">
+<img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/MuestraSolucionDelCalculo10.jpeg" width="400" height="650">
+![VideoEjecuion.gif](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/VideoEjecuion.gif)
 
 ## Construido con 🛠️
 
