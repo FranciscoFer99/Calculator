@@ -11,7 +11,8 @@ En el siguiente ejemplo, se introduce el número "8", depués se pulsa el simbol
 <img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/Introduce8.jpeg" width="400" height="650">
 <img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/pulsaSumaEIntroduce2.jpeg" width="400" height="650">
 <img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/MuestraSolucionDelCalculo10.jpeg" width="400" height="650">
-![VideoEjecuion.gif](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/VideoEjecuion.gif)
+<img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/VideoEjecuion.gif" width="400" height="650">
+
 
 ## Construido con 🛠️
 
