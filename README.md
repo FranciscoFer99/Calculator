@@ -10,7 +10,7 @@ Desarrollo de una Calculadora simple, con cuatro funciones básicas, "Sumar", "R
 ![pulsaSumaEIntroduce2.jpeg](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/pulsaSumaEIntroduce2.jpeg)
 ![MuestraSolucionDelCalculo10.jpeg](https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/MuestraSolucionDelCalculo10.jpeg)
 
-<img src="" width="" height="">
+<img src="https://github.com/FranciscoFer99/Calculator/blob/main/Calculator/images/Introduce8.jpeg" width="400" height="300">
 
 ## Construido con 🛠️
 
